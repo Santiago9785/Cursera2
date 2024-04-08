@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    color: brown;
+    font-family: Arial, sans-serif; /* La fuente que deseas utilizar */
+    font-size: 5.5em; /* Tamaño de la fuente */
+    padding: auto;
+   
+}
+
+   
+   .caja1{
+   
+   background-color: rgb(163, 163, 163);
+   border: 1px solid red;
+   margin: 0px 20px 0px 20px;
+   }
+   
+   #Chicken{
+    
+       color: blue;
+       text-align: center;
+   }
+   
+   
+   .p1{
+   margin: 0;
+   padding: 0;
+   }
+   
+   .caja2{
+   background-color: rgb(95, 189, 2);
+   border: 1px solid rgb(196, 6, 6);
+   margin: 2rem 20px 0px 20px;
+   }
+   
+   #Beef{
+       color:blue;
+       text-align: center;
+   }
+   
+   .caja3{
+       margin: 40px;
+       background-color: rgb(228, 66, 2);
+       border: 1px solid rgb(163, 4, 4);
+       margin: 2rem 20px 2rem 20px;
+       }
+    
+   #Sushi{
+   color: rgb(0, 0, 192);
+   text-align: center;
+   }
+
+   nav{
+
+    background-color: rgb(228, 66, 2);
+    border: 2px solid black;
+   }
+   
+   .navbar-brand {
+    color: #fff; /* Cambiar color del texto a blanco */
+    font-size: 1.5em; /* Cambiar tamaño de la fuente */
+    text-decoration: none; /* Quitar subrayado del enlace */
+  }
+  
+  .navbar-brand:hover {
+    color: #ffd700; /* Cambiar color del texto al pasar el ratón sobre el enlace */
+  }
+  
